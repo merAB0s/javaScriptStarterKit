@@ -93,9 +93,10 @@ let newProductName, newUnitPrice, newQuantity
     ({productName:newProductName, unitPrice:newUnitPrice, quantity:newQuantity}
     = {productName:"Elma", unitPrice:1, quantity:8})
 
+
+console.log(newQuantity)
 console.log(newProductName)
 console.log(newUnitPrice)
-console.log(newQuantity)
 
 
 
