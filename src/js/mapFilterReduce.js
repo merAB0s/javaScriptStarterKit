@@ -22,7 +22,7 @@ console.log(quantityOver2)
 
 
 
-let total = cart.ruduce((acc,product)=>acc+ product.unitPrice,0)
+// let total = cart.ruduce((acc,product)=>acc+ product.unitPrice,0)
 
 
 
